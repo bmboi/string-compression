@@ -8,26 +8,12 @@ When transmitting or storing large amounts of textual data, it is often desirabl
 
 ## Installation
 
-To use the JS Compression Library, you can either include the library file in your HTML file or require it in your Node.js application.
+To use the JS Compression Library, you can either include the library file in your HTML file or require it in your Node.js application (Coming soon).
 
 ### Browser
 
 ```html
 <script src="compression-library.js"></script>
-```
-
-### Node.js
-
-Install the library using npm:
-
-```shell
-npm install compression-library
-```
-
-Then require it in your Node.js application:
-
-```javascript
-const CompressionLibrary = require('compression-library');
 ```
 
 ## Usage
