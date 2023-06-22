@@ -52,13 +52,6 @@ The `compress` method takes a string as input and returns the compressed version
 - The character mapping technique used in the library is simple and may not handle all possible characters or encoding scenarios. It is recommended for basic text compression needs.
 - The library is not designed for encrypting or securing data. It focuses solely on reducing the size of strings.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/your-repo).
-
 ## License
 
 This library is released under the [MIT License](https://opensource.org/licenses/MIT).
-```
-
-Feel free to customize the README.md file according to your specific library details and preferences.
